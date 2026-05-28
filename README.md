@@ -22,11 +22,6 @@ This project focuses on mobile friendliness, a sticky navigation bar that change
 
 ---
 
-## 📱 Preview
-You can view the live demo here:  
-👉 [Live Link](https://yourusername.github.io/responsive-landing-page)
-
----
 
 ## ⚙️ How to Run Locally
 1. Clone the repository  
