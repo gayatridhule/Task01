@@ -32,3 +32,6 @@ You can view the live demo here:
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/responsive-landing-page.git
+
+## 📱 Preview
+👉 [Live Demo](https://gayatridhule.github.io/Task01/)
