@@ -37,5 +37,3 @@ You can view the live demo here:
 👉 [Live Demo](https://gayatridhule.github.io/Task01/)
 
 
-## 📱 Live Preview
-👉 [View Project](https://gayatridhule.github.io/Task01/)
