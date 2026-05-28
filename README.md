@@ -26,7 +26,8 @@ This project focuses on mobile friendliness, a sticky navigation bar that change
 ## ⚙️ How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/responsive-landing-page.git
+   git clone https://github.com/gayatridhule/Task01.git
+
 
 ## 📱 Preview
 👉 [Live Demo](https://gayatridhule.github.io/Task01/)
